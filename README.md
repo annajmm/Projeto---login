@@ -34,9 +34,6 @@ Compreendemos o que é um **framework** e sua importância como ferramenta que e
 - Mais produtivo  
 - Alinhado aos objetivos do negócio  
 
-
- -  Bootstrap
-
 Estudamos o **Bootstrap**, um framework front-end que facilita a criação de interfaces:
 
 - Modernas  
