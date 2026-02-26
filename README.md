@@ -19,6 +19,64 @@ o Bootstrap e alguns exemplos disponíveis nesse framework, e git, realizando o 
  - Bootstrap
  - Git 
 
+
+ ### Conceitos Estudados
+
+ - Framework
+
+Compreendemos o que é um **framework** e sua importância como ferramenta que estrutura e simplifica processos complexos, tornando o desenvolvimento:
+
+- Mais organizado  
+- Mais produtivo  
+- Alinhado aos objetivos do negócio  
+
+ -  Bootstrap
+
+Estudamos o **Bootstrap**, um framework front-end que facilita a criação de interfaces:
+
+- Modernas  
+- Responsivas  
+- Padronizadas  
+- Otimizadas em tempo de desenvolvimento  
+
+Também aprendemos a utilizar o **link do CDN** para integrar o Bootstrap ao projeto.
+
+### Versionamento com Git
+
+Aprendemos conceitos fundamentais sobre controle de versão:
+
+- 📁 Diferença entre **repositório local e remoto**
+- 📌 Arquivos **untracked (não monitorados)**
+- ➕ `git add` – Adicionar arquivos ao controle de versão
+- 🔍 `git status` – Verificar alterações
+- 💾 `git commit` – Registrar alterações
+- 🚀 `git push` – Publicar no repositório remoto
+- ⚙️ Configuração do usuário:
+  - `git config --global user.email`
+  - `git config --global user.name`
+
+Entendemos também a importância de **commits bem escritos**, com clareza e qualidade na descrição das alterações realizadas.
+
+### 📝 Documentação e Organização
+
+Nesta etapa do projeto, aprofundamos conceitos relacionados à documentação e organização profissional:
+
+### 📌 README
+- Estruturação adequada
+- Clareza nas informações
+- Apresentação do projeto
+- Tecnologias utilizadas
+
+### 💬 Comentários no Código
+ 
+Aprendemos a importância de documentar o código corretamente:
+
+**CSS**
+```css
+/* Comentário em CSS */
+
+
  ### Autor 
+
  [Anna Julia Maia](https://www.linkedin.com/in/annajuliaamaia/)
 
