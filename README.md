@@ -70,8 +70,8 @@ Nesta etapa do projeto, aprofundamos conceitos relacionados à documentação e 
 
 ### Comentários no Código
  
- Mensagens no código são essenciais para explicar a lógica do que foi feito, facilitar a manutenção e melhorar o trabalho em equipe. Elas tornam o projeto mais organizado, evitam erros e contribuem para um desenvolvimento mais profissional.
-
+ Mensagens no código são essenciais para explicar a lógica do que foi feito, facilitar a manutenção e melhorar o trabalho em equipe. Fazem diferença na leitura e manutenção do projeto — tanto em CSS (/* */) quanto em HTML (<!-- -->).
+ 
  ### Autor 
 
  [Anna Julia Maia](https://www.linkedin.com/in/annajuliaamaia/)
